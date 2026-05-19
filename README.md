@@ -1,9 +1,17 @@
 <!-- markdownlint-disable MD041 -->
-![Pedro M. M. Gonçalves](banner.png)
+![Pedro Gonçalves](banner.png)
 
 # Pedro Gonçalves
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6556--6086-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6556-6086)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-0079C1?style=flat-square&logo=arcgis&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
+![Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=googleearth&logoColor=white)
 
 Researcher in geospatial engineering. Affiliated with **LNEG** (Laboratório Nacional de Energia e Geologia, the Portuguese Geological Survey) since 2013. PhD candidate at **FCUP** (Faculty of Sciences, University of Porto) in Geographic Engineering (geomatics and geoinformatics) since 2025, under an FCT research scholarship.
 
@@ -34,16 +42,22 @@ In 2025, nine active research and institutional projects covered mineral prospec
 
 ## Technical stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-0079C1?style=flat-square&logo=arcgis&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
-![Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat-square&logo=googleearth&logoColor=white)
-![Copernicus](https://img.shields.io/badge/Copernicus%20Sentinel-0B3D91?style=flat-square)
+### Earth observation missions
 
-**Earth observation data:** Sentinel-1 SAR · Sentinel-2 MSI · Landsat 8/9 · ASTER · Pléiades Neo · ENMAP · PRISMA  
+![Sentinel-1 SAR](https://img.shields.io/badge/Sentinel--1%20SAR-0B3D91?style=flat-square)
+![Sentinel-2 MSI](https://img.shields.io/badge/Sentinel--2%20MSI-0B3D91?style=flat-square)
+![Landsat 8/9](https://img.shields.io/badge/Landsat%208%2F9-005571?style=flat-square)
+![ASTER](https://img.shields.io/badge/ASTER-FC3D21?style=flat-square)
+![Pléiades Neo](https://img.shields.io/badge/Pl%C3%A9iades%20Neo-003366?style=flat-square)
+![ENMAP](https://img.shields.io/badge/ENMAP-B22222?style=flat-square)
+![PRISMA](https://img.shields.io/badge/PRISMA-008C45?style=flat-square)
+
+### Reanalysis and climate data
+
+![ERA5-Land](https://img.shields.io/badge/ERA5--Land-005571?style=flat-square)
+![Copernicus ECDE](https://img.shields.io/badge/Copernicus%20ECDE-0B3D91?style=flat-square)
+![DestinE](https://img.shields.io/badge/DestinE%20Earth%20Data%20Hub-1A1A2E?style=flat-square)
+
 **UAV sensors:** DJI P1 (photogrammetric) · Agrowing Sextuple (multispectral) · YellowScan Mapper+ (LiDAR)  
 **Libraries and platforms:** GDAL/OGR · GeoPandas · rasterio · ArcPy · SNAP · Google Earth Engine
 
@@ -70,3 +84,4 @@ Critical raw materials · Geospatial AI · Remote sensing · UAV/LiDAR surveys �
 
 - Portfolio: [pedrommgoncalves.github.io/pedro_goncalves-portfolio](https://pedrommgoncalves.github.io/pedro_goncalves-portfolio/)
 - ORCID: [0000-0002-6556-6086](https://orcid.org/0000-0002-6556-6086)
+
