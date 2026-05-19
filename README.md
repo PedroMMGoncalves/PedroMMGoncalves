@@ -4,6 +4,7 @@
 # Pedro Gonçalves
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6556--6086-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6556-6086)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pedrommgoncalves85-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrommgoncalves85/)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -87,9 +88,11 @@ Trainer for African geological surveys under the EuroGeoSurveys / PanAfGeo progr
 
 Critical raw materials · Geospatial AI · Remote sensing · UAV/LiDAR surveys · Training partnerships
 
-Reach out via ORCID or my portfolio.
+Reach out via LinkedIn or email.
 
 ## Links
 
 - Portfolio: [pedrommgoncalves.github.io/pedro_goncalves-portfolio](https://pedrommgoncalves.github.io/pedro_goncalves-portfolio/)
 - ORCID: [0000-0002-6556-6086](https://orcid.org/0000-0002-6556-6086)
+- LinkedIn: [linkedin.com/in/pedrommgoncalves85](https://www.linkedin.com/in/pedrommgoncalves85/)
+- Email: [pedro.goncalves@lneg.pt](mailto:pedro.goncalves@lneg.pt)
