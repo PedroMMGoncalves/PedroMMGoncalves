@@ -1,5 +1,4 @@
-<!-- markdownlint-disable MD041 -->
-<!-- Banner: place a representative image as banner.png in the repository root (recommended ~1280×320 px). A prospectivity map, hillshaded LiDAR DTM, multitemporal satellite composite, or UAV ortho works well. Remove this comment after adding the file. -->
+
 ![Pedro M. M. Gonçalves](banner.png)
 
 # Pedro M. M. Gonçalves
