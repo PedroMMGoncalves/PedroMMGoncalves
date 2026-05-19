@@ -58,8 +58,19 @@ In 2025, nine active research and institutional projects covered mineral prospec
 ![Copernicus ECDE](https://img.shields.io/badge/Copernicus%20ECDE-0B3D91?style=flat-square)
 ![DestinE](https://img.shields.io/badge/DestinE%20Earth%20Data%20Hub-1A1A2E?style=flat-square)
 
-**UAV sensors:** DJI P1 (photogrammetric) · Agrowing Sextuple (multispectral) · YellowScan Mapper+ (LiDAR)  
-**Libraries and platforms:** GDAL/OGR · GeoPandas · rasterio · ArcPy · SNAP · Google Earth Engine
+### UAV sensors
+
+![DJI P1](https://img.shields.io/badge/DJI%20P1-1B1B1B?style=flat-square)
+![Agrowing Sextuple](https://img.shields.io/badge/Agrowing%20Sextuple-388E3C?style=flat-square)
+![YellowScan Mapper+](https://img.shields.io/badge/YellowScan%20Mapper%2B-E6A700?style=flat-square)
+
+### Libraries and platforms
+
+![GDAL/OGR](https://img.shields.io/badge/GDAL%2FOGR-4A8E3F?style=flat-square)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square)
+![rasterio](https://img.shields.io/badge/rasterio-3E5C71?style=flat-square)
+![ArcPy](https://img.shields.io/badge/ArcPy-0079C1?style=flat-square)
+![SNAP](https://img.shields.io/badge/SNAP-003366?style=flat-square)
 
 ## Selected repositories
 
@@ -84,4 +95,3 @@ Critical raw materials · Geospatial AI · Remote sensing · UAV/LiDAR surveys �
 
 - Portfolio: [pedrommgoncalves.github.io/pedro_goncalves-portfolio](https://pedrommgoncalves.github.io/pedro_goncalves-portfolio/)
 - ORCID: [0000-0002-6556-6086](https://orcid.org/0000-0002-6556-6086)
-
