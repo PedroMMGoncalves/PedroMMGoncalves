@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD041 -->
-![Pedro Gonçalves](banner.png)
+![Pedro M. M. Gonçalves](banner.png)
 
-# Pedro M. M. Gonçalves
+# Pedro Gonçalves
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6556--6086-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6556-6086)
 
