@@ -71,4 +71,4 @@ Critical raw materials · Geospatial AI · Remote sensing · UAV/LiDAR surveys �
 ## Links
 
 - Portfolio — [pedrommgoncalves.github.io/pedro_goncalves-portfolio](https://pedrommgoncalves.github.io/pedro_goncalves-portfolio/)
-- ORCID — [0000-0002-6556-6086](https://orcid.org/0000-0002-6556-6086)****
+- ORCID — [0000-0002-6556-6086](https://orcid.org/0000-0002-6556-6086)
