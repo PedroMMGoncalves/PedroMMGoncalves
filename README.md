@@ -83,13 +83,13 @@ In 2025, nine active research and institutional projects covered mineral prospec
 
 Trainer for African geological surveys under the EuroGeoSurveys / PanAfGeo programme (PanAfGeo2 and PanAfGeo+), with sessions delivered in São Tomé and Príncipe, Cabo Verde, and Mozambique. Topics include GIS, SAR/InSAR, UAV operations, and hyperspectral data processing. In late 2025, a 50-hour course on *Remote Sensing and Geoprocessing applied to Hydrology* was delivered in Maputo, Mozambique.
 
-## Service
-
-Former board member of APPSIG (Associação Portuguesa de Profissionais de Sistemas de Informação Geográfica), 2016–2024.
-
 ## Open to collaboration
 
 Critical raw materials · Geospatial AI · Remote sensing · UAV/LiDAR surveys · Training partnerships
+
+Reach out via ORCID or my portfolio.
+
+**Working languages:** Portuguese (native) · English (fluent) · French and Spanish (reading and listening)
 
 ## Links
 
