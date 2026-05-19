@@ -89,8 +89,6 @@ Critical raw materials · Geospatial AI · Remote sensing · UAV/LiDAR surveys �
 
 Reach out via ORCID or my portfolio.
 
-**Working languages:** Portuguese (native) · English (fluent) · French and Spanish (reading and listening)
-
 ## Links
 
 - Portfolio: [pedrommgoncalves.github.io/pedro_goncalves-portfolio](https://pedrommgoncalves.github.io/pedro_goncalves-portfolio/)
