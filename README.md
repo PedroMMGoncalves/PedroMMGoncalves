@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD041 -->
-![Pedro M. M. Gonçalves](banner.png)
+![Pedro Gonçalves](banner.png)
 
 # Pedro M. M. Gonçalves
 
