@@ -92,7 +92,7 @@ Reach out via LinkedIn or email.
 
 ## Links
 
-- Portfolio: [pedrommgoncalves.github.io/pedro_goncalves-portfolio](https://pedrommgoncalves.github.io/pedro_goncalves-portfolio/)
+- Portfolio: [pedrommgoncalves.github.io](https://pedrommgoncalves.github.io/)
 - ORCID: [0000-0002-6556-6086](https://orcid.org/0000-0002-6556-6086)
 - LinkedIn: [linkedin.com/in/pedrommgoncalves85](https://www.linkedin.com/in/pedrommgoncalves85/)
 - Email: [pedro.goncalves@lneg.pt](mailto:pedro.goncalves@lneg.pt)
